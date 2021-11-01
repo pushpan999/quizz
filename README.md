@@ -1,5 +1,3 @@
-# quizz
+# Simple Quizz App
 
-Flutter Quizz App.
-
-This app is build following Udemy Class
+Simple flutter quizz app
